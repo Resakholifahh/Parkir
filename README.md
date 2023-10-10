@@ -1,2 +1,2 @@
- resaaaaa
- ;;;
+ini repository resa
+terimakasih
