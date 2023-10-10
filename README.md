@@ -1,2 +1,2 @@
-ini repository resa
+#ini repository resa
 terimakasih
